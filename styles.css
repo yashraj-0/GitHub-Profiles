@@ -33,6 +33,7 @@ height: 100vh;
 }
 .user-form input:focus {
     outline: none;
+    background-color: #291150;
 }
 .card {
     max-width: 800px;

@@ -11,7 +11,7 @@ async function getUser(username) {
     }   
     catch (err) {
         if (err.response.status == 404) {
-        createErrorCard('Profile not found.')
+        createErrorCard('Unable to find profile.')
          }
     }
 }

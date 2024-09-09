@@ -46,7 +46,7 @@ height: 100vh;
 }
 .avatar {
     border-radius: 50%;
-    border: 2px solid #6b6ba3;
+    border: 3px solid #6b6ba3;
     height: 150px;
     width: 150px;
 }
